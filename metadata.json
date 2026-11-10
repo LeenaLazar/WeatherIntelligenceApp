@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A modern weather intelligence dashboard providing real-time conditions, 7-day forecasts, temperature & precipitation charts, and data-driven recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
